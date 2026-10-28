@@ -1,0 +1,13 @@
+# Local tools and editor metadata.
+/.tools/
+/.serena/
+/.idea/
+/.vscode/
+
+# Generated output.
+/bin/
+/coverage.out
+/coverage.html
+*.test
+*.out
+.DS_Store
